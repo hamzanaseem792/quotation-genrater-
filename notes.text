@@ -1,0 +1,5 @@
+// first of all I have to write html and in which I will make a button to genrate Queto and I will also make a div for making a container and I will also mak a dive and I will give it a class of queto and then I will add pargraph for quet and then I will write down the author in heading , and I will also give them some id or class because I have to access them, and one more thing I will put button outside the container 
+// thenw e will do some css by ourself ,step by step 
+// in js we will not make it through api we will use the no js object to store some queto then we will also make an object for author then we will use some function 
+// then we will genrate random quet using math function 
+then we will access the id or class whatever we give to our para and heading accesst to set its innerhtml value 
